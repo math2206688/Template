@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+        Course Name: CIS133DA
+        Section:24983
+        Lesson: 4
+    -->
+    <meta charset="UTF-8">
+    <meta name="Author" content="Mathew Rynn">
+    <meta name="keywords" content="">
+<meta name="description" content="">
+    <title>mat2206688 - Template</title>
+</head>
+<body>
+    <header><h1>Basic Template</h1>
+        <p><i>"The only way to do great work is to love what you do."</i></p>
+        <nav>
+          <ul>
+            <li><a href="#">Placeholder Link</a></li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <h2>Content Heading</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati.</p>
+    </main>
+    <footer>
+        <p><small>Copyright &copy; Mathew Rynn 2023</small></p>
+      </footer>
+    
+</body>
+</html>
